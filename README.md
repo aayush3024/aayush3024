@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **B.Tech CSE (AI & ML)** student who enjoys building web applications and continuously learning new technologies. I love solving real-world problems through code and am currently focused on improving my skills in **Full Stack Development, Python, and Data Structures & Algorithms**.
+I'm a passionate **B.Tech CSE (AI)** student who enjoys building web applications and continuously learning new technologies. I love solving real-world problems through code and am currently focused on improving my skills in **Full Stack Development, Python, and Data Structures & Algorithms**.
 
 * 🎓 B.Tech Student
 * 💻 Passionate about Web Development & AI
 * 🌱 Currently Learning **Python, MongoDB, Flask, and DSA**
-* 🎯 Goal: Become a skilled Software Engineer
+* 🎯 Goal: Become a skilled AI Engineer
 * ⚡ Fun Fact: I enjoy turning ideas into real projects.
 
 ---
@@ -90,15 +90,14 @@ HTML • CSS • JavaScript
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/aayush3024
+* Email: gangwaraayush1987@gmail.com
 
 ---
 
 ## 💡 Quote
 
-> *"Consistency beats talent when talent doesn't work consistently."*
+> *""Backend by day, debugging by night."."*
 
 ---
 
