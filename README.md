@@ -1,50 +1,105 @@
-# Hi, I'm Aayush 👋
+# Hi there, I'm Aayush Gangwar 👋
 
-*B.Tech (AI) Student @ Galgotias College of Engineering and Technology*
+## 🚀 About Me
 
-I'm a second-year engineering student specializing in Artificial Intelligence and Machine Learning, focused on backend development, hackathons, and building toward a career as an AI Engineer.
+I'm a passionate **B.Tech CSE (AI & ML)** student who enjoys building web applications and continuously learning new technologies. I love solving real-world problems through code and am currently focused on improving my skills in **Full Stack Development, Python, and Data Structures & Algorithms**.
 
----
-
-## About Me
-
-- 🎓 Studying AI/ML with a strong foundation in Python, C++, and web fundamentals
-- 🛠️ Backend developer on my hackathon team
-- 💡 Interested in both technical development and product/design work
-- 🌱 Currently learning: Node.js, Express, and MongoDB
-- 🎯 Goal: Becoming an AI Engineer, with hands-on ML deployment experience
+* 🎓 B.Tech Student
+* 💻 Passionate about Web Development & AI
+* 🌱 Currently Learning **Python, MongoDB, Flask, and DSA**
+* 🎯 Goal: Become a skilled Software Engineer
+* ⚡ Fun Fact: I enjoy turning ideas into real projects.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-*Languages:* Python, C++, HTML, CSS
-*Frameworks:* Flask, Bootstrap
-*Libraries:* NumPy, Pandas,matplotlib
-*Tools:* Git, VS Code
+### Languages
+
+* C++
+* Python
+* JavaScript
+* HTML5
+* CSS3
+
+### Frameworks & Libraries
+
+* Flask
+* Bootstrap
+
+### Database
+
+* MongoDB
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🎓 Smart Student Management System
+
+A web application that helps faculty manage students efficiently.
+
+**Features**
+
+* Student Management
+* Attendance Tracking
+* Assignment Management
+* Dashboard
+* Faculty Login
+* MongoDB Database Integration
+
+**Tech Stack**
+HTML • CSS • JavaScript • Flask • MongoDB
 
 ---
 
-## Featured Projects
+### 🌐 Personal Portfolio Website
 
-*Smart Campus Management System*
-A multi-module Flask application covering student, faculty, and course management, attendance tracking, and authentication, built with a Bootstrap 5 frontend.
+A responsive portfolio website showcasing my skills, projects, and achievements.
 
-*Corruption Prediction (ML)*
-B.Tech final year project applying machine learning to model and predict corruption trends, supported by a full technical report.
+**Features**
 
-*AquaSmart*
-Marketing and branding concept for a smart water bottle, including campaign visuals and presentation design.
+* Responsive Design
+* Smooth UI
+* Projects Section
+* Contact Form
 
-*Portfolio Websites*
-Multiple personal and client portfolio sites, each with a distinct visual identity and responsive design.
+**Tech Stack**
+HTML • CSS • JavaScript
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## Connect
+## 📫 Connect With Me
 
-- GitHub: [github.com/aayush3024](https://github.com/aayush3024)
-- LinkedIn: [Aayush Gangwar](https://linkedin.com/in/aayushgangwar)
-- LeetCode: [aayushgangwar](https://leetcode.com/aayushgangwar)
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
+
+## 💡 Quote
+
+> *"Consistency beats talent when talent doesn't work consistently."*
+
+---
+
+⭐ **Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.**
