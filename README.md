@@ -36,6 +36,7 @@ I'm a passionate **B.Tech CSE (AI)** student who enjoys building web application
 * Git
 * GitHub
 * VS Code
+* Leetcode
 
 ---
 
