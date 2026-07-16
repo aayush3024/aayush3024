@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **B.Tech CSE (AI)** student who enjoys building web applications and continuously learning new technologies. I love solving real-world problems through code and am currently focused on improving my skills in **Full Stack Development, Python, and Data Structures & Algorithms**.
+I'm a passionate **B.Tech CSE (AI)** student who enjoys building Backend Development and continuously learning new technologies. I love solving real-world problems through code and am currently focused on improving my skills in **Full Stack Development, Python, and Data Structures & Algorithms**.
 
 * 🎓 B.Tech Student
 * 💻 Passionate about Web Development & AI
@@ -26,7 +26,9 @@ I'm a passionate **B.Tech CSE (AI)** student who enjoys building web application
 
 * Flask
 * Bootstrap
-
+* Numpy
+* pandas
+* Matplotlib
 ### Database
 
 * MongoDB
