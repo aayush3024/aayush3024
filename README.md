@@ -19,8 +19,8 @@ I'm a passionate **B.Tech CSE (AI)** student who enjoys building Backend Develop
 * C++
 * Python
 * JavaScript
-* HTML5
-* CSS3
+* HTML
+* CSS
 
 ### Frameworks & Libraries
 
